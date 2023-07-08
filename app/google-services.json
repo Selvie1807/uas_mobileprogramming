@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180476855375",
+    "project_id": "perpustakaan-uas",
+    "storage_bucket": "perpustakaan-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180476855375:android:de28a3966c64c0b494163a",
+        "android_client_info": {
+          "package_name": "com.example.py7.perpustakaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180476855375-kvqeplnb9q9h8qrgh05s8bsr6b2n9sv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-3jNoyyw5TKQ2ZwAtN18dSsipDpcMQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180476855375-kvqeplnb9q9h8qrgh05s8bsr6b2n9sv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
